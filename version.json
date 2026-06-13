@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "1.0.4",
+  "versionCode": 6,
+  "versionName": "1.1.0",
   "apkUrl": "https://github.com/jonatan1193/montacarga-updates/releases/latest/download/montacarga-control.apk",
-  "changes": "Corrige la apertura del instalador y agrega descarga de respaldo mediante el navegador."
+  "changes": "StarLift S1: deteccion por identidad WiFi, ajustes de velocidad por dispositivo, selector de tres modos o fader, paro de emergencia con rearme y cambio de control sin activar emergencia."
 }
