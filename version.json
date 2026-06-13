@@ -1,6 +1,6 @@
-﻿{
-    "versionCode":  3,
-    "versionName":  "1.0.2",
-    "apkUrl":  "https://github.com/jonatan1193/montacarga-updates/releases/latest/download/montacarga-control.apk",
-    "changes":  "Boton Descargar e instalar visible y funcional directamente en la pantalla de actualizaciones."
+{
+  "versionCode": 3,
+  "versionName": "1.0.2",
+  "apkUrl": "https://github.com/jonatan1193/montacarga-updates/releases/latest/download/montacarga-control.apk",
+  "changes": "Boton Descargar e instalar visible y funcional directamente en la pantalla de actualizaciones."
 }
