@@ -1,6 +1,6 @@
 {
-  "version": "1.1.2",
-  "build": 7,
-  "apkUrl": "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.1.2/montacarga-control-v1.1.2.apk",
-  "notes": "Diseno StarLift pulido, radar animado, imagen S1 por modelo, offline sin imagen e inversion del hover."
+  "versionCode": 15,
+  "versionName": "1.2.0",
+  "apkUrl": "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.0/montacarga-control-v1.2.0.apk",
+  "changes": "Control StarLift por Bluetooth SPP o WiFi, selector de dispositivo sincronizado, joystick de app invertido para el montaje actual, splash nativo limpio y diseno azul ajustado al logo."
 }
