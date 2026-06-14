@@ -1,5 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "1.1.1",
-  "apkUrl": "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.1.0/starlift-control.apk"
+  "version": "1.1.2",
+  "build": 7,
+  "apkUrl": "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.1.2/montacarga-control-v1.1.2.apk",
+  "notes": "Diseno StarLift pulido, radar animado, imagen S1 por modelo, offline sin imagen e inversion del hover."
 }
