@@ -1,6 +1,6 @@
 {
-  "versionCode": 15,
-  "versionName": "1.2.0",
-  "apkUrl": "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.0/montacarga-control-v1.2.0.apk",
-  "changes": "Control StarLift por Bluetooth SPP o WiFi, selector de dispositivo sincronizado, joystick de app invertido para el montaje actual, splash nativo limpio y diseno azul ajustado al logo."
+    "versionCode":  16,
+    "versionName":  "1.2.1",
+    "apkUrl":  "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.1/montacarga-control-v1.2.1.apk",
+    "changes":  "Prueba de actualizacion: ajustes con toggle para invertir joystick completo, settings con scroll seguro y discovery responsive con tarjeta clickeable."
 }
