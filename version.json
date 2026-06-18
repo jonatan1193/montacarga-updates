@@ -1,6 +1,6 @@
 {
-    "versionCode":  17,
-    "versionName":  "1.2.2",
-    "apkUrl":  "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.2/montacarga-control-v1.2.2.apk",
-    "changes":  "Compatibilidad BSP-D3/gamepad HID: ajustes para asignar relays a botones, importar mapa guardado desde ESP32 y firmware StarLift S1 con mapa Bluetooth editable."
+    "versionCode":  18,
+    "versionName":  "1.2.3",
+    "apkUrl":  "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.3/montacarga-control-v1.2.3.apk",
+    "changes":  "Ajustes reorganizados: tabs Control, Panel y Joypad. Panel permite arrastrar modulos visibles/ocultos del control; Joypad mantiene asignacion de relays a botones."
 }
