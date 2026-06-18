@@ -1,6 +1,6 @@
 {
-    "versionCode":  18,
-    "versionName":  "1.2.3",
-    "apkUrl":  "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.3/montacarga-control-v1.2.3.apk",
-    "changes":  "Ajustes reorganizados: tabs Control, Panel y Joypad. Panel permite arrastrar modulos visibles/ocultos del control; Joypad mantiene asignacion de relays a botones."
+    "versionCode":  19,
+    "versionName":  "1.2.4",
+    "apkUrl":  "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.4/montacarga-control-v1.2.4.apk",
+    "changes":  "Escenas IA grabables, atajos drag and drop, presets completos de la app, panel de control modular por maquina e inversion global del joystick."
 }
