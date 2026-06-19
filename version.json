@@ -1,6 +1,6 @@
 {
-    "versionCode":  20,
-    "versionName":  "1.2.5",
-    "apkUrl":  "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.5/montacarga-control-v1.2.5.apk",
-    "changes":  "Corrige asignacion de escenas IA a atajos: ahora se puede asignar aunque Modo IA este apagado y cada escena tiene boton directo para Atajo 1, 2 o 3."
+    "versionCode":  21,
+    "versionName":  "1.2.6",
+    "apkUrl":  "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.6/montacarga-control-v1.2.6.apk",
+    "changes":  "Modo Bluetooth Auto para StarLift: comandos set_mode desde la app, fallback automatico a WiFi si no hay emparejamiento y mejoras visuales en discovery Bluetooth."
 }
