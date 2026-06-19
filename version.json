@@ -1,6 +1,6 @@
 {
-    "versionCode":  21,
-    "versionName":  "1.2.6",
-    "apkUrl":  "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.6/montacarga-control-v1.2.6.apk",
-    "changes":  "Modo Bluetooth Auto para StarLift: comandos set_mode desde la app, fallback automatico a WiFi si no hay emparejamiento y mejoras visuales en discovery Bluetooth."
+    "versionCode":  22,
+    "versionName":  "1.2.7",
+    "apkUrl":  "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.7/montacarga-control-v1.2.7.apk",
+    "changes":  "Modo WiFi restaurado: discovery y control de la app solo por WiFi; se ocultaron opciones Bluetooth de la interfaz."
 }
