@@ -1,6 +1,6 @@
 {
-    "versionCode":  23,
-    "versionName":  "1.2.8",
-    "apkUrl":  "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.8/montacarga-control-v1.2.8.apk",
-    "changes":  "Agrega medidor de corriente general, estado por actividad y historial local de eventos de corriente."
+    "versionCode":  24,
+    "versionName":  "1.2.9",
+    "apkUrl":  "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.9/montacarga-control-v1.2.9.apk",
+    "changes":  "Prepara sensores futuros UNO Q y editor IA por bloques con validacion por capacidades."
 }
