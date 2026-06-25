@@ -1,6 +1,6 @@
 {
-    "versionCode":  22,
-    "versionName":  "1.2.7",
-    "apkUrl":  "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.7/montacarga-control-v1.2.7.apk",
-    "changes":  "Modo WiFi restaurado: discovery y control de la app solo por WiFi; se ocultaron opciones Bluetooth de la interfaz."
+    "versionCode":  23,
+    "versionName":  "1.2.8",
+    "apkUrl":  "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.8/montacarga-control-v1.2.8.apk",
+    "changes":  "Agrega medidor de corriente general, estado por actividad y historial local de eventos de corriente."
 }
