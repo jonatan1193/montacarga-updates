@@ -1,6 +1,6 @@
 {
-    "versionCode":  24,
-    "versionName":  "1.2.9",
-    "apkUrl":  "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.9/montacarga-control-v1.2.9.apk",
-    "changes":  "Prepara sensores futuros UNO Q y editor IA por bloques con validacion por capacidades."
+    "versionCode":  25,
+    "versionName":  "1.2.10",
+    "apkUrl":  "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.10/montacarga-control-v1.2.10.apk",
+    "changes":  "Agrega programacion IA con IF, WHILE, plantillas rapidas, simulacion paso a paso y modo prueba sin salida fisica."
 }
