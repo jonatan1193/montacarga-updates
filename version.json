@@ -1,6 +1,6 @@
 {
-    "versionCode":  26,
-    "versionName":  "1.2.11",
-    "apkUrl":  "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.11/montacarga-control-v1.2.11.apk",
-    "changes":  "Actualizador interno: descarga el APK dentro de StarLift con progreso y abre el instalador seguro. Editor IA mejorado: IF/THEN/ELSE/END IF y WHILE/END WHILE con validacion estricta y etiquetas visuales de pareja para distinguir bloques secuenciales/anidados."
+    "versionCode":  27,
+    "versionName":  "1.2.12",
+    "apkUrl":  "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.12/montacarga-control-v1.2.12.apk",
+    "changes":  "Correcciones de conexion Discovery, apagado seguro de relays y escenas, simulacion IA con IF y WHILE, validacion de bloques, paro de emergencia fijo en portrait y mejoras responsive."
 }
