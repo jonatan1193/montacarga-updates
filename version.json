@@ -1,6 +1,6 @@
 {
-    "versionCode":  27,
-    "versionName":  "1.2.12",
-    "apkUrl":  "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.12/montacarga-control-v1.2.12.apk",
-    "changes":  "Correcciones de conexion Discovery, apagado seguro de relays y escenas, simulacion IA con IF y WHILE, validacion de bloques, paro de emergencia fijo en portrait y mejoras responsive."
+    "versionCode":  28,
+    "versionName":  "1.2.13",
+    "apkUrl":  "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.13/montacarga-control-v1.2.13.apk",
+    "changes":  "Proteccion duty cycle independiente para actuadores; porcentaje disponible en Ajustes; color termico automatico en botones; bloqueo seguro al llegar a cero; soporte en presets y mejoras responsive."
 }
