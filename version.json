@@ -1,6 +1,6 @@
 {
-    "versionCode":  28,
-    "versionName":  "1.2.13",
-    "apkUrl":  "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.13/montacarga-control-v1.2.13.apk",
-    "changes":  "Proteccion duty cycle independiente para actuadores; porcentaje disponible en Ajustes; color termico automatico en botones; bloqueo seguro al llegar a cero; soporte en presets y mejoras responsive."
+    "versionCode":  29,
+    "versionName":  "1.2.14",
+    "apkUrl":  "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.14/montacarga-control-v1.2.14.apk",
+    "changes":  "Nuevo perfil StarLift H1: joystick y ruedas hoverboard, dos actuadores, winche, encendido del controlador por relay, identidad STARLIFT-H1-001 e imagen pendiente. Perfiles S1 y H1 separados por modelo."
 }
