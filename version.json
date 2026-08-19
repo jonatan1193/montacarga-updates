@@ -1,6 +1,6 @@
 {
-    "versionCode":  32,
-    "versionName":  "1.2.17",
-    "apkUrl":  "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.17/montacarga-control-v1.2.17.apk",
-    "changes":  "Corriente global unica en top bar, diagnostico y modo IA; acepta numero o texto y conserva cero como dato valido."
+    "versionCode":  33,
+    "versionName":  "1.2.18",
+    "apkUrl":  "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.18/montacarga-control-v1.2.18.apk",
+    "changes":  "Corrige lecturas intermitentes de corriente: conserva la ultima medicion global valida cuando un mensaje WebSocket no incluye corrienteAmp."
 }
