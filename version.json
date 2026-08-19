@@ -1,6 +1,6 @@
 {
-    "versionCode":  31,
-    "versionName":  "1.2.16",
-    "apkUrl":  "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.16/montacarga-control-v1.2.16.apk",
-    "changes":  "Corriente doble para StarLift H1: lectura general compatible, canales OUT1 GPIO35 y OUT2 GPIO36, picos por canal, estados seguros y diagnostico responsive."
+    "versionCode":  32,
+    "versionName":  "1.2.17",
+    "apkUrl":  "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.17/montacarga-control-v1.2.17.apk",
+    "changes":  "Corriente global unica en top bar, diagnostico y modo IA; acepta numero o texto y conserva cero como dato valido."
 }
