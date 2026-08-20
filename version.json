@@ -1,6 +1,6 @@
 {
-    "versionCode":  34,
-    "versionName":  "1.2.19",
-    "apkUrl":  "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.19/montacarga-control-v1.2.19.apk",
-    "changes":  "Corrige la edicion de valores numericos en IF y WHILE: conserva lo escrito, acepta coma o punto y guarda en tiempo real. Agrega bloques en acordeon y modo de teclado que mantiene visible el canvas de programacion."
+    "versionCode":  35,
+    "versionName":  "1.2.20",
+    "apkUrl":  "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.20/montacarga-control-v1.2.20.apk",
+    "changes":  "Agrega gestion completa del control PS4 desde Ajustes: estado, modelo, ultimo boton, habilitar o deshabilitar, desconexion, espera neutral y aviso de prioridad. Mantiene la app operativa mientras PS4 esta buscando."
 }
