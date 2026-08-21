@@ -1,6 +1,6 @@
 {
-    "versionCode":  35,
-    "versionName":  "1.2.20",
-    "apkUrl":  "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.20/montacarga-control-v1.2.20.apk",
-    "changes":  "Agrega gestion completa del control PS4 desde Ajustes: estado, modelo, ultimo boton, habilitar o deshabilitar, desconexion, espera neutral y aviso de prioridad. Mantiene la app operativa mientras PS4 esta buscando."
+  "versionCode": 36,
+  "versionName": "1.2.21",
+  "apkUrl": "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.21/montacarga-control-v1.2.21.apk",
+  "changes": "Nuevo editor PLC movil para programaciones complejas: canvas a pantalla completa, bloques IF/ELSE/WHILE en cuadricula 3x3, emparejamiento visual de estructuras, asistente de errores y seguridad, plantillas rapidas, simulacion separada y layouts optimizados para portrait y landscape."
 }
