@@ -1,6 +1,6 @@
 {
-  "versionCode": 37,
-  "versionName": "1.2.22",
-  "apkUrl": "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.22/montacarga-control-v1.2.22.apk",
-  "changes": "Permite asignar escenas y programas PLC a Atajo IA 1, 2 o 3, ejecutarlos de forma segura desde Atajos y Controles, y corrige el diseño responsive de los atajos."
+  "versionCode": 38,
+  "versionName": "1.2.23",
+  "apkUrl": "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.23/montacarga-control-v1.2.23.apk",
+  "changes": "Agrega al StarLift S1 el boton configurable para encender el controlador hoverboard, conserva el comando hover_power y corrige su ajuste responsive en landscape y portrait."
 }
