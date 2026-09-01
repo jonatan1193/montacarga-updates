@@ -1,6 +1,6 @@
 {
-  "versionCode": 38,
-  "versionName": "1.2.23",
-  "apkUrl": "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.23/montacarga-control-v1.2.23.apk",
-  "changes": "Agrega al StarLift S1 el boton configurable para encender el controlador hoverboard, conserva el comando hover_power y corrige su ajuste responsive en landscape y portrait."
+  "versionCode": 39,
+  "versionName": "1.2.24",
+  "apkUrl": "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.24/montacarga-control-v1.2.24.apk",
+  "changes": "Corrige el StarLift S1 para mostrar automaticamente Encender hoverboard en configuraciones existentes y evita que una lista antigua de capacidades del ESP32 oculte ese control."
 }
