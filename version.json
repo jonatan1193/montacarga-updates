@@ -1,6 +1,6 @@
 {
-  "versionCode": 42,
-  "versionName": "1.2.27",
-  "apkUrl": "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.27/montacarga-control-v1.2.27.apk",
-  "changes": "Corrige el movimiento izquierda/derecha en control Wi-Fi y sincroniza el límite Fader con joystick táctil y mando Android."
+  "versionCode": 43,
+  "versionName": "1.2.28",
+  "apkUrl": "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.28/montacarga-control-v1.2.28.apk",
+  "changes": "Restaura la inversion general del joystick y conserva el Fader y sus limites de velocidad."
 }
