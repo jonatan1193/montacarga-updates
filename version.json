@@ -1,6 +1,6 @@
 {
-  "versionCode": 44,
-  "versionName": "1.2.29",
-  "apkUrl": "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.29/montacarga-control-v1.2.29.apk",
-  "changes": "Restaura la inversion global del joystick y corrige la persistencia de ajustes"
+  "versionCode": 45,
+  "versionName": "1.2.30",
+  "apkUrl": "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.30/montacarga-control-v1.2.30.apk",
+  "changes": "Diagnostico en vivo del giro horizontal del joystick"
 }
