@@ -1,6 +1,6 @@
 {
-    "versionCode":  46,
-    "versionName":  "1.2.31",
-    "apkUrl":  "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.31/montacarga-control-v1.2.31.apk",
-    "changes":  "Control independiente y limitado para probar cada rueda del hover"
+    "versionCode":  47,
+    "versionName":  "1.2.32",
+    "apkUrl":  "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.32/montacarga-control-v1.2.32.apk",
+    "changes":  "Seleccion Wi-Fi o Bluetooth SPP para conectar y controlar StarLift"
 }
