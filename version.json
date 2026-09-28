@@ -1,6 +1,6 @@
 {
-  "versionCode": 45,
-  "versionName": "1.2.30",
-  "apkUrl": "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.30/montacarga-control-v1.2.30.apk",
-  "changes": "Diagnostico en vivo del giro horizontal del joystick"
+    "versionCode":  46,
+    "versionName":  "1.2.31",
+    "apkUrl":  "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.31/montacarga-control-v1.2.31.apk",
+    "changes":  "Control independiente y limitado para probar cada rueda del hover"
 }
