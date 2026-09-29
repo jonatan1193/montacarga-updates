@@ -1,6 +1,6 @@
 {
-    "versionCode":  53,
-    "versionName":  "1.2.38",
-    "apkUrl":  "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.38/montacarga-control-v1.2.38.apk",
-    "changes":  "S1: modos de velocidad 100/250/500 en la app; H1 conserva su limite"
+    "versionCode":  54,
+    "versionName":  "1.2.39",
+    "apkUrl":  "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.39/montacarga-control-v1.2.39.apk",
+    "changes":  "TX hover 0-500 en top bar; conexión Bluetooth SPP; selector de radio Wi-Fi/Bluetooth del ESP32 con confirmación y preferencia guardada"
 }
