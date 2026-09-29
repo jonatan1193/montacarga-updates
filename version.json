@@ -1,6 +1,6 @@
 {
-    "versionCode":  55,
-    "versionName":  "1.2.40",
-    "apkUrl":  "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.40/montacarga-control-v1.2.40.apk",
-    "changes":  "Filtro de dispositivos Bluetooth ajenos y reconexion idempotente del StarLift S1"
+  "versionCode": 56,
+  "versionName": "1.2.41",
+  "apkUrl": "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.41/montacarga-control-v1.2.41.apk",
+  "changes": "El botón de actualizaciones consulta GitHub directamente y muestra progreso y errores de red claros"
 }
