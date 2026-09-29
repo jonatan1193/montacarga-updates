@@ -1,6 +1,6 @@
 {
-  "versionCode": 58,
-  "versionName": "1.2.43",
-  "apkUrl": "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.43/montacarga-control-v1.2.43.apk",
-  "changes": "Correccion limite RPM y guardado; habilita soporte S1, persiste ajustes y envia configuracion por Wi-Fi/Bluetooth"
+  "versionCode": 59,
+  "versionName": "1.2.44",
+  "apkUrl": "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.44/montacarga-control-v1.2.44.apk",
+  "changes": "Editor de control personalizable: canvas fullscreen en cuadrícula o fluido, perfiles móvil/tablet portrait/landscape, widgets de control y telemetría, top bar configurable y layouts incluidos en presets."
 }
