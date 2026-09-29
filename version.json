@@ -1,6 +1,6 @@
 {
-    "versionCode":  52,
-    "versionName":  "1.2.37",
-    "apkUrl":  "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.37/montacarga-control-v1.2.37.apk",
-    "changes":  "Corrige escala de temperatura hoverboard: decimas a grados Celsius"
+    "versionCode":  53,
+    "versionName":  "1.2.38",
+    "apkUrl":  "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.38/montacarga-control-v1.2.38.apk",
+    "changes":  "S1: modos de velocidad 100/250/500 en la app; H1 conserva su limite"
 }
