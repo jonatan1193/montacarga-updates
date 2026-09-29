@@ -1,6 +1,6 @@
 {
-    "versionCode":  54,
-    "versionName":  "1.2.39",
-    "apkUrl":  "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.39/montacarga-control-v1.2.39.apk",
-    "changes":  "TX hover 0-500 en top bar; conexión Bluetooth SPP; selector de radio Wi-Fi/Bluetooth del ESP32 con confirmación y preferencia guardada"
+    "versionCode":  55,
+    "versionName":  "1.2.40",
+    "apkUrl":  "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.40/montacarga-control-v1.2.40.apk",
+    "changes":  "Filtro de dispositivos Bluetooth ajenos y reconexion idempotente del StarLift S1"
 }
