@@ -1,6 +1,6 @@
 {
-  "versionCode": 57,
-  "versionName": "1.2.42",
-  "apkUrl": "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.42/montacarga-control-v1.2.42.apk",
-  "changes": "Reconocimiento robusto del perfil S1 y modo 3 a 500 sin elevar el limite del H1"
+  "versionCode": 58,
+  "versionName": "1.2.43",
+  "apkUrl": "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.43/montacarga-control-v1.2.43.apk",
+  "changes": "Correccion limite RPM y guardado; habilita soporte S1, persiste ajustes y envia configuracion por Wi-Fi/Bluetooth"
 }
