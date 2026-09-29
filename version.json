@@ -1,6 +1,6 @@
 {
-    "versionCode":  60,
-    "versionName":  "1.2.45",
-    "apkUrl":  "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.45/montacarga-control-v1.2.45.apk",
-    "changes":  "Actualización de StarLift"
+  "versionCode": 61,
+  "versionName": "1.2.46",
+  "apkUrl": "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.46/montacarga-control-v1.2.46.apk",
+  "changes": "Modo Automático restaurado al diseño previo al canvas y verificado en portrait y landscape"
 }
