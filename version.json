@@ -1,6 +1,6 @@
 {
-    "versionCode":  47,
-    "versionName":  "1.2.32",
-    "apkUrl":  "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.32/montacarga-control-v1.2.32.apk",
-    "changes":  "Seleccion Wi-Fi o Bluetooth SPP para conectar y controlar StarLift"
+  "versionCode": 48,
+  "versionName": "1.2.33",
+  "apkUrl": "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.33/montacarga-control-v1.2.33.apk",
+  "changes": "Actualizacion StarLift Control."
 }
