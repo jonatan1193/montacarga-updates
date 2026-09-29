@@ -1,6 +1,6 @@
 {
-  "versionCode": 59,
-  "versionName": "1.2.44",
-  "apkUrl": "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.44/montacarga-control-v1.2.44.apk",
-  "changes": "Editor de control personalizable: canvas fullscreen en cuadrícula o fluido, perfiles móvil/tablet portrait/landscape, widgets de control y telemetría, top bar configurable y layouts incluidos en presets."
+    "versionCode":  60,
+    "versionName":  "1.2.45",
+    "apkUrl":  "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.45/montacarga-control-v1.2.45.apk",
+    "changes":  "Actualización de StarLift"
 }
