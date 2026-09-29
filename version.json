@@ -1,6 +1,6 @@
 {
-    "versionCode":  51,
-    "versionName":  "1.2.36",
-    "apkUrl":  "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.36/montacarga-control-v1.2.36.apk",
-    "changes":  "Indicadores opcionales de temperatura y bateria del hoverboard en top bar"
+    "versionCode":  52,
+    "versionName":  "1.2.37",
+    "apkUrl":  "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.37/montacarga-control-v1.2.37.apk",
+    "changes":  "Corrige escala de temperatura hoverboard: decimas a grados Celsius"
 }
