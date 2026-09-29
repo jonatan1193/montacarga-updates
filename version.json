@@ -1,6 +1,6 @@
 {
-  "versionCode": 56,
-  "versionName": "1.2.41",
-  "apkUrl": "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.41/montacarga-control-v1.2.41.apk",
-  "changes": "El botón de actualizaciones consulta GitHub directamente y muestra progreso y errores de red claros"
+  "versionCode": 57,
+  "versionName": "1.2.42",
+  "apkUrl": "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.42/montacarga-control-v1.2.42.apk",
+  "changes": "Reconocimiento robusto del perfil S1 y modo 3 a 500 sin elevar el limite del H1"
 }
