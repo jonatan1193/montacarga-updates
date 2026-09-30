@@ -1,6 +1,6 @@
 {
-  "versionCode": 62,
-  "versionName": "1.2.47",
-  "apkUrl": "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.47/montacarga-control-v1.2.47.apk",
-  "changes": "Vistas combina indicadores del top bar y asignacion de widgets; se restaura el control automatico anterior al canvas"
+  "versionCode": 63,
+  "versionName": "1.2.48",
+  "apkUrl": "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.48/montacarga-control-v1.2.48.apk",
+  "changes": "Ajustes a pantalla completa sin panel de dispositivo; botones inferiores compactos y responsivos"
 }
