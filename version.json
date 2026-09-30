@@ -1,6 +1,6 @@
 {
-  "versionCode": 61,
-  "versionName": "1.2.46",
-  "apkUrl": "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.46/montacarga-control-v1.2.46.apk",
-  "changes": "Modo Automático restaurado al diseño previo al canvas y verificado en portrait y landscape"
+  "versionCode": 62,
+  "versionName": "1.2.47",
+  "apkUrl": "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.47/montacarga-control-v1.2.47.apk",
+  "changes": "Vistas combina indicadores del top bar y asignacion de widgets; se restaura el control automatico anterior al canvas"
 }
