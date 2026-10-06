@@ -1,6 +1,6 @@
 {
-  "versionCode": 65,
-  "versionName": "1.2.49",
-  "apkUrl": "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.49/montacarga-control-v1.2.49.apk",
-  "changes": "Inversion independiente de los ejes X e Y del joystick y joypad Android"
+    "versionCode":  66,
+    "versionName":  "1.2.50",
+    "apkUrl":  "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.50/montacarga-control-v1.2.50.apk",
+    "changes":  "Calibracion manual del joystick para marcha recta"
 }
