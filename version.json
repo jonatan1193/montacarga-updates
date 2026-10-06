@@ -1,6 +1,6 @@
 {
-    "versionCode":  66,
-    "versionName":  "1.2.50",
-    "apkUrl":  "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.50/montacarga-control-v1.2.50.apk",
-    "changes":  "Calibracion manual del joystick para marcha recta"
+    "versionCode":  67,
+    "versionName":  "1.2.51",
+    "apkUrl":  "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.51/montacarga-control-v1.2.51.apk",
+    "changes":  "Amplia y corrige la calibracion del joystick"
 }
