@@ -1,6 +1,6 @@
 {
-  "versionCode": 69,
-  "versionName": "1.2.53",
-  "apkUrl": "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.53/montacarga-control-v1.2.53.apk",
-  "changes": "Correccion de calibracion del joystick al retroceder"
+  "versionCode": 70,
+  "versionName": "1.2.54",
+  "apkUrl": "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.54/montacarga-control-v1.2.54.apk",
+  "changes": "Calibracion completa del joystick en pantalla dedicada"
 }
