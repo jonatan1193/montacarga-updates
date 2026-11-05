@@ -1,6 +1,6 @@
 {
-  "versionCode": 70,
-  "versionName": "1.2.54",
-  "apkUrl": "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.54/montacarga-control-v1.2.54.apk",
-  "changes": "Calibracion completa del joystick en pantalla dedicada"
+  "versionCode": 71,
+  "versionName": "1.2.55",
+  "apkUrl": "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.55/montacarga-control-v1.2.55.apk",
+  "changes": "StarLift S2: identidad, controles dedicados, fader de estrellas y liberacion segura"
 }
