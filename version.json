@@ -1,6 +1,6 @@
 {
-  "versionCode": 72,
-  "versionName": "1.2.56",
-  "apkUrl": "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.56/montacarga-control-v1.2.56.apk",
-  "changes": "S2 motor estrellas: pad adelante/reversa y escala ajustable por orientacion"
+  "versionCode": 73,
+  "versionName": "1.2.57",
+  "apkUrl": "https://github.com/jonatan1193/montacarga-updates/releases/download/v1.2.57/montacarga-control-v1.2.57.apk",
+  "changes": "Control del motor de estrellas S2 con joystick vertical, diseño y tamaño adaptables"
 }
